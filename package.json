@@ -1,0 +1,19 @@
+{
+  "name": "agoda-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "agoda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "delay": "^5.0.0",
+    "fs-extra": "^10.0.1",
+    "node-fetch": "^2.6.1",
+    "random-name": "^0.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}
