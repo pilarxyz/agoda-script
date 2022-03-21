@@ -1,12 +1,6 @@
 # Run
 
-npm init
-npm install node-fetch@2.6.1
-npm install cheerio
-npm install fs-extra
-npm install readline-sync
-npm install delay
-npm install random-name
+npm install
 
 # Cara Pakai
 
