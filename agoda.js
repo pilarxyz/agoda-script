@@ -170,7 +170,7 @@ function a(index) {
       try {
         const email = `${random.first()}${await randstr(
           6
-        )}@four.my.id`.toLowerCase();
+        )}@gmail.com`.toLowerCase();
 
         console.log(`Email : ${email}`);
 
